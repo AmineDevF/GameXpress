@@ -161,7 +161,7 @@ L'API suit une architecture **RESTful** avec :
 ✅ Écriture des **tests unitaires**  
 
 ### 📆 **Jour 5**
-✅ Développement des **endpoints catégories & utilisateurs**  
+✅ Développement des **endpoints utilisateurs**  
 ✅ Finalisation des **tests et documentation API**  
 
 ### 📤 Exporter les Endpoints
