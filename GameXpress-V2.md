@@ -35,11 +35,20 @@ Permettre aux utilisateurs (connectés et invités) d'ajouter des produits à le
   - Lorsqu’un invité se connecte, son panier temporaire est **fusionné avec son panier enregistré**.  
   - En cas de doublon, la quantité est mise à jour.  
 
-### **4️⃣ Application des remises et codes promo** (bonus) 
-- En tant qu’utilisateur, je veux **appliquer un code promo** pour bénéficier d’une réduction.  
+
+### **4️⃣ 1️⃣ Définition et attribution des rôles** (bonus) 
+- En tant qu’administrateur, je veux attribuer un rôle à un utilisateur afin de lui accorder des permissions spécifiques.
 - **Règles métiers :**  
-  - Vérifier la validité du code (date d’expiration, conditions d’application, nombre d’utilisations).  
-  - Calculer la réduction et mettre à jour le total du panier.  
+- Chaque utilisateur doit avoir un rôle unique (**Client**, **Manager**, **Admin**).
+- Seul l’administrateur peut attribuer ou modifier les rôles des utilisateurs.
+
+### **4️⃣ 2️⃣ Gestion des permissions** (bonus) 
+- En tant qu’administrateur, je veux définir des permissions spécifiques à chaque rôle afin de sécuriser l’accès aux fonctionnalités.
+- Les permissions incluent :
+  - **Gérer les produits** 📦
+  - **Voir/modifier les commandes** 📋
+  - **Gérer les utilisateurs** 👥
+- Un **Manager** peut voir et modifier les commandes, mais ne peut pas modifier les rôles des utilisateurs.
 
 ### **5️⃣ Calcul du total du panier (avec taxes et remises)**  
 - En tant qu’utilisateur, je veux **voir le total de mon panier** avec le détail des taxes et des éventuelles réductions.  
