@@ -70,7 +70,7 @@ Permettre aux utilisateurs (connectés et invités) d'ajouter des produits à le
 | **Jour 1** 🛠️ | Création de la table `cart_items` avec relations + Ajout des routes API pour le panier |  
 | **Jour 2** 🔄 | Développement du `CartController` (ajout, mise à jour, suppression) + Gestion du stock |  
 | **Jour 3** 🔑 | Implémentation de la fusion du panier après connexion + Gestion des sessions |  
-| **Jour 4** 💰 | Ajout du système de codes promo + Calcul du total (TVA, réductions, etc.) |  
+| **Jour 4** 💰 | Gestion des roles et permissions + Calcul du total (TVA, réductions) |  
 | **Jour 5** ✅ | Mise en place de l’expiration des articles |  
 
 ---
