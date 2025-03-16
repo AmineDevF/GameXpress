@@ -80,14 +80,14 @@ Permettre aux utilisateurs (connectés et invités) d'ajouter des produits à le
 📂 **app**  
  ├── 📁 Http  
  │   ├── 📂 Controllers  
- │   │   └── 📂 Api/V1  
+ │   │   └── 📂 Api/V2  
  │   │       └── 📜 CartController.php  
  ├── 📁 Models  
  │   ├── 📜 CartItem.php  
  ├── 📂 routes  
  │   ├── 📜 api.php  
  ├── 📂 tests  
- │   ├── Feature/Api/V1/CartTest.php  
+ │   ├── Feature/Api/V2/CartTest.php  
 
 ---
 
