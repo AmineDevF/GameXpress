@@ -39,7 +39,7 @@ Permettre aux utilisateurs (connectés et invités) d'ajouter des produits à le
 ### **4️⃣ 1️⃣ Définition et attribution des rôles** (bonus) 
 - En tant qu’administrateur, je veux attribuer un rôle à un utilisateur afin de lui accorder des permissions spécifiques.
 - **Règles métiers :**  
-- Chaque utilisateur doit avoir un rôle unique (**Client**, **Manager**, **Admin** **user_manager**).
+- Chaque utilisateur doit avoir un rôle unique (**Client**, **Manager**, **Admin**, **user_manager**).
 - Seul l’administrateur peut attribuer ou modifier les rôles des utilisateurs.
 
 ### **4️⃣ 2️⃣ Gestion des permissions** (bonus) 
