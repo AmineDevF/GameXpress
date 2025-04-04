@@ -85,23 +85,33 @@ Le **tableau de bord** affiche les statistiques principales :
 
 ### 📆 **Jour 1**
 ✅ Initialisation du projet React.js
+
 ✅ Configuration de **Tailwind CSS & React Router**
+
 ✅ Mise en place du **système d'authentification** (Register , Login, Logout)
 
 ### 📆 **Jour 2**
+
 ✅ Implémentation d'authentification  **UseContext**
+
 ✅ Développement du **Dashboard Administrateur**
 
 ### 📆 **Jour 3**
+
 ✅ Création du **module Produits** (CRUD + Images)
+
 ✅ Intégration de Validation  -- Yup --
 
 ### 📆 **Jour 4**
+
 ✅ Création du **module Catégories** (CRUD + sous-category)
+
 ✅ Intégration de Validation  -- Yup --
 
 ### 📆 **Jour 5**
+
 ✅ Intégration des **notifications & feedbacks**
+
 ✅ Notifications en temps  réel & optimisations
 
 ---
