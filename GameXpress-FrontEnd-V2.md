@@ -100,10 +100,6 @@ Le **tableau de bord** affiche les statistiques principales :
 ✅ Création du **module Catégories** (CRUD + sous-category)
 ✅ Intégration de Validation  -- Yup --
 
-### 📆 **Jour 4**
-✅ Développement du **module Catégories**
-✅ Amélioration UI avec **modals & loaders**
-
 ### 📆 **Jour 5**
 ✅ Intégration des **notifications & feedbacks**
 ✅ Notifications en temps  réel & optimisations
