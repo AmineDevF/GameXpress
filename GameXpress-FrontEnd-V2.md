@@ -72,7 +72,6 @@ Elle est conçue pour offrir une **expérience fluide aux clients** connectés e
   - Sous-total
   - TVA (20% par défaut)
   - Remises appliquées
-  - Frais de livraison (forfait ou conditionnel)
   - **Total TTC**
 
 ---
