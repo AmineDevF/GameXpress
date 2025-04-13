@@ -115,13 +115,6 @@ Elle est conçue pour offrir une **expérience fluide aux clients** connectés e
 ## 🚀 Déploiement (optionnel)
 
 - Hébergement via **Vercel**, **Netlify** ou **GitHub Pages**
-- Commandes :
-  ```bash
-  npm run build
-  ```
-- Configuration :
-  - `.env` avec les variables d’API (`REACT_APP_API_URL`)
-  - HTTPS recommandé pour compatibilité avec Sanctum
 
 ---
 
