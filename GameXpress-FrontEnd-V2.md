@@ -28,7 +28,7 @@ Elle est conçue pour offrir une **expérience fluide aux clients** connectés e
 - **Suppression d’article**
 - **Fusion automatique du panier après login**
 - **Panier persistant en base pour les utilisateurs connectés**
-- **Calcul total (TVA, remises, livraison)**
+- **Calcul total (TVA, remises)**
 - **Expiration automatique après 48h d’inactivité**
 
 ### 🧠 Comportement UX
